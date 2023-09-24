@@ -91,7 +91,7 @@ A Sands-serif font has been used, Helvetica, this font is good for accessibility
 
 ### Imagery
 
-For the imagery I have used a number of stock photograph websites to obtain inviting meal images. The gazpacho image was found on [Istockphoto](https://www.istockphoto.com/). The crepes and macaroni cheese images were downloaded from [Pexels](https://www.pexels.com/). The ramen image has been acquired from [Unsplash] (https://unsplash.com). I have made a note of the creators of these images in the credits section.
+For the imagery I have used a number of stock photograph websites to obtain inviting meal images. The gazpacho image was found on [Istockphoto](https://www.istockphoto.com/). The crepes and macaroni cheese images were downloaded from [Pexels](https://www.pexels.com/). The ramen image has been acquired from [Unsplash](https://unsplash.com). I have made a note of the creators of these images in the credits section.
 
 ### Wireframes
 
