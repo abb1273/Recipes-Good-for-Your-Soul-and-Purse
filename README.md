@@ -83,5 +83,27 @@ Recipies Good for Your Soul and Purse is an online recipie website. The website 
 
 ![Recipes Good For Your Soul And Purse](images/colourscheme.png)
 
-The colour scheme for this website is warm colours, they were found on the [Coolors] website(https://coolors.co)
+The colour scheme for this website is warm and bright colours, they were found on the [Coolors] website(https://coolors.co)
+
+### Typography
+
+A Sands-serif font has been used, Helvetica, this font is good for accessibility.
+
+### Imagery
+
+For the imagery I have used a number of stock photograph websites to obtain inviting meal images. The gazpacho image was found on [Istockphoto](https://www.istockphoto.com/). The crepes and macaroni cheese images were downloaded from [Pexels](https://www.pexels.com/). The ramen image has been acquired from [Unsplash] (https://unsplash.com). I have made a note of the creators of these images in the credits section.
+
+### Wireframes
+
+Balsamique has been used to create Wireframes for mobile, tablet and desktop devices.
+
+[About Us Page Wireframe](images/wireframes/aboutuswireframe.png)
+
+[Recipe Of The Week Page Wireframe](images/wireframes/recipeoftheweekwireframe.png)
+
+[Join Our Newsletter Page Wireframe](images/wireframes/joinournewsletterpagewireframe.png)
+
+[Thank You Page Wireframe](images/wireframes/thankyouwireframe.png)
+
+### Features 
 
