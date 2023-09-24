@@ -46,4 +46,42 @@ This website is designed to inspire the creation of a healthy meal. Recipes good
  *[Media](#Media)
  *[Acknowledgments](#Acknowledgments)
 
+- - - 
+
+## User Experience (UX)
+
+### Initial Discussion
+
+Recipies Good for Your Soul and Purse is an online recipie website. The website provides a recipie of the week which is healthy and more affordable compaired to purchasing takeaway meals. If the user signs up to the news letter they will recieve more recipie inspiration.
+
+### User Stories
+
+#### Client Goals 
+*The ability to view the website on a number of different device sizes.
+*To be able to see nutritional information for the recipie of the week.
+*To be able to click a link to a shopping list with prices for the recipie of the week.
+*Allow website users to sign up to the news letter.
+
+#### First Time visitor Goals 
+
+*Easy natigation through the website to see all the information.
+*To be able to see clear instructions on how to make the recipie of the week.
+
+#### Returning Visitor Goals
+
+*Returning visitors can find links to social pages for information on past recipes of the week.
+  
+#### Frequent Visitor Goals 
+
+*Frequent visitors will be able to find new recipie inspiration and cooking instructions each week.
+
+- - -
+
+## Design 
+
+### Colour Scheme
+
+![Recipes Good For Your Soul And Purse](images/colourscheme.png)
+
+The colour scheme for this website is warm colours, they were found on the [Coolors] website(https://coolors.co)
 
