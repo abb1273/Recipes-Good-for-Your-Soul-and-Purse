@@ -115,7 +115,7 @@ The About Us Page includes information in a text box, below the text box there a
 
 Recipe Of The Week Page displays an image of chilli chicken ramen. Below are icons for time, difficulty level and a shopping trolly. The shopping trolly icon takes you to an external webpage which has a list and prices of the recipe ingredients. There are two lists bewlow the icons for the recipe ingredients and method. 
 
-Join Our News Letter Page has a form for users to submit their full name and email address. 
+Join Our Newsletter Page has a form for users to submit their full name and email address. 
 
 Thank You Page appears once the user submitts the form. This page has a tick icon. 
 
