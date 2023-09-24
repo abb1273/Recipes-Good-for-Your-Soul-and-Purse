@@ -107,3 +107,21 @@ Balsamique has been used to create Wireframes for mobile, tablet and desktop dev
 
 ### Features 
 
+The four website pages all have a;
+*Responsive navigation bar for access to the four website pages. 
+*Responsive social media icons in the footer for Instagram, Facebook and Snapchat.
+
+The About Us Page includes information in a text box, below the text box there are three headings with a picture below each heading, arranged horizontally. The first picture is gazpacho, the second is crepes and the third is macaroni cheese.
+
+Recipe Of The Week Page displays an image of chilli chicken ramen. Below are icons for time, difficulty level and a shopping trolly. The shopping trolly icon takes you to an external webpage which has a list and prices of the recipe ingredients. There are two lists bewlow the icons for the recipe ingredients and method. 
+
+Join Our News Letter Page has a form for users to submit their full name and email address. 
+
+Thank You Page appears once the user submitts the form. This page has a tick icon. 
+
+Future implementations for this website are an archive of past recipies of the week which rotate using javascript.
+
+### Accessibility 
+
+
+
