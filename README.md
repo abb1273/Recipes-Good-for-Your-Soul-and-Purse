@@ -123,5 +123,23 @@ Future implementations for this website are an archive of past recipies of the w
 
 ### Accessibility 
 
+To ensure the website is accessible to all users I have used a semantic HTML, Sands-serif font has been used, Helvetica. I have included alt attribute on images and used colours that provide a contrast.
 
+- - - 
 
+## Technologies Used 
+
+### Languages Used
+
+HTML5 and CSS have been used to create the website.
+
+### Frameworks, Libraries & Programs Used
+
+To create wireframes Balsamiq has been used.
+To keep the website stored I have used Github and for version control Git.
+To write the code for the website, Codeanywere.
+The websites frame work has been created using BootStrap Version 4.5.
+Icons included in the website were found from Font Awesome.
+To test the website Google Dev Tools has been used. 
+Am I Responsive?
+Lighthouse
