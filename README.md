@@ -83,7 +83,7 @@ Recipies Good for Your Soul and Purse is an online recipie website. The website 
 
 ![Recipes Good For Your Soul And Purse](images/colourscheme.png)
 
-The colour scheme for this website is warm and bright colours, they were found on the [Coolors] website(https://coolors.co)
+The colour scheme for this website is warm and bright colours, they were found on [Coolors](https://coolors.co)
 
 ### Typography
 
