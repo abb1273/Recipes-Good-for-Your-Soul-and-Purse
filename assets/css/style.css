@@ -47,3 +47,6 @@ figure {
     margin-top: 40px;
 }
 
+.container-fluid {
+    width: 100%;
+}
