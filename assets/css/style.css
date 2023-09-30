@@ -26,7 +26,8 @@ img {
 
 h1 {
     font-family: Helvetica, sans-serif;
-    text-align: center;
+    letter-spacing: 4px;
+    color: #FFFFFF;
 }
 
 figure {
