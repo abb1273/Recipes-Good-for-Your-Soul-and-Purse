@@ -30,6 +30,10 @@ h1 {
     color: #FFFFFF;
 }
 
+#logo {
+    float: left;
+}
+
 figure {
     margin-top: 40px;
 }
