@@ -43,6 +43,7 @@ h1 {
 
 #menu li {
     float: right;
+    margin-right: 30px;
 }
 
 figure {
