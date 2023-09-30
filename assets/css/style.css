@@ -1,4 +1,4 @@
-body{
+body {
     font-family: Helvetica, sans-serif;
     color: #9DA3A6;
 }
@@ -46,7 +46,7 @@ h1 {
     letter-spacing: 4px;
 }
 
-#logo, #menu{
+#logo, #menu {
     line-height: 75px;
 
 }    
@@ -56,9 +56,17 @@ h1 {
     margin-right: 30px;
 }
 
-#menu a{
+#menu a {
     text-decoration: none;
     color:#FFFFFF;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #FFFFFF;
+}
+
+.active {
+    border-bottom: 1px solid #FFFFFF;
 }
 
 figure {
