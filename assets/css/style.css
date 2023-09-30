@@ -26,7 +26,7 @@ img {
 h1 {
     font-family: Helvetica, sans-serif;
     letter-spacing: 4px;
-    color: #FFFFFF;
+    color:#9DA3A6;
 }
 
 #logo {
@@ -52,15 +52,15 @@ h1 {
 
 #menu a {
     text-decoration: none;
-    color:#FFFFFF;
+    color:#;
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #FFFFFF;
+    border-bottom: 1px solid #9DA3A6;
 }
 
 .active {
-    border-bottom: 1px solid #FFFFFF;
+    border-bottom: 1px solid #9DA3A6;
 }
 
 figure {
