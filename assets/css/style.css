@@ -1,75 +1,75 @@
 body {
-    font-family: Helvetica, sans-serif;
-    color: #9DA3A6;
+  font-family: Helvetica, sans-serif;
+  color: #9da3a6;
 }
 
 ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 li {
-    display: inline;
+  display: inline;
 }
 
 img {
-    border: 2px solid #F0804F;
-    max-width: 60%;
-    padding: 10px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-
+  border: 2px solid #f0804f;
+  max-width: 60%;
+  padding: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1 {
-    font-family: Helvetica, sans-serif;
-    letter-spacing: 2px;
-    color: #9DA3A6;
+  font-family: Helvetica, sans-serif;
+  letter-spacing: 2px;
+  color: #9da3a6;
 }
 
 #logo {
-    font-size: 200%;
+  font-size: 200%;
 }
 
 #menu {
-    font-size: 110%;
-    list-style-type: none;
-    letter-spacing: 2px;
+  font-size: 110%;
+  list-style-type: none;
+  letter-spacing: 2px;
 }
 
 #logo,
-#menu {}
+#menu {
+}
 
 #menu li {
-    float: right;
-    margin-right: 30px;
+  float: right;
+  margin-right: 30px;
 }
 
 #menu a {
-    text-decoration: none;
-    color: #;
+  text-decoration: none;
+  color: #;
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #9DA3A6;
+  border-bottom: 1px solid #9da3a6;
 }
 
 .active {
-    border-bottom: 1px solid #9DA3A6;
+  border-bottom: 1px solid #9da3a6;
 }
 
 figure {
-    margin-top: 40px;
+  margin-top: 40px;
 }
 
 .container {
-    width: 100%;
+  width: 100%;
 }
 
 #left-about {
-    padding-top: 30px;
-    width: 33%;
-    float: left;
+  padding-top: 30px;
+  width: 33%;
+  float: left;
 }
