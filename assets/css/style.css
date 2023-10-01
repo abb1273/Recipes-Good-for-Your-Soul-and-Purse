@@ -26,11 +26,10 @@ img {
 h1 {
     font-family: Helvetica, sans-serif;
     letter-spacing: 2px;
-    color:#9DA3A6;
+    color: #9DA3A6;
 }
 
 #logo {
-    float: left;
     font-size: 200%;
 }
 
@@ -40,10 +39,8 @@ h1 {
     letter-spacing: 2px;
 }
 
-#logo, #menu {
-    line-height: 75px;
-
-}    
+#logo,
+#menu {}
 
 #menu li {
     float: right;
@@ -52,7 +49,7 @@ h1 {
 
 #menu a {
     text-decoration: none;
-    color:#;
+    color: #;
 }
 
 #menu a:hover {
@@ -67,7 +64,7 @@ figure {
     margin-top: 40px;
 }
 
-.container-fluid {
+.container {
     width: 100%;
 }
 
