@@ -38,9 +38,6 @@ h1 {
     letter-spacing: 2px;
 }
 
-#logo,
-#menu {}
-
 #menu li {
     float: right;
     margin-right: 30px;
