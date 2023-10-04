@@ -138,7 +138,7 @@ HTML5 and CSS have been used to create the website.
 To create wireframes Balsamiq has been used.
 To keep the website stored I have used Github and for version control Git.
 To write the code for the website, Codeanywere.
-The websites frame work has been created using BootStrap Version 4.5.
+The websites frame work has been created using BootStrap Version 5.0
 Icons included in the website were found from Font Awesome.
 To test the website Google Dev Tools has been used. 
 Am I Responsive?
